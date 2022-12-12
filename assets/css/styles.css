@@ -153,8 +153,7 @@ section > div{
 .comp-pro{
   display:flex;
   flex-flow: row wrap;
-  margin-bottom: 10px;
-  justify-content: space-between;
+  margin-bottom: 10px;  
 }
 
 .comp-pro p{
